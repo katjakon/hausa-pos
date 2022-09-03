@@ -5,6 +5,7 @@ This project is for my Bachelor thesis at the University of Potsdam for which I 
 Parallel sentences for the Quran can be found in the directory `parallel`. Each file has alignment information in the directory `aligned` and tags for the source language in the directory `tagged`.<br>
 Alignments and source tags are used to project tags onto the Hausa sentences. These files can be found in the directory `projected`. On the data in `projected` I train different tagging models. 
 I evaluate them on the test data in the directory `test_data`. Predictions for each tagger can also be found in this directory under `predictions`.
+All the figure can be found in the directory `figures`.
 
 ## Notebooks
 For various aspects of this work, I made use of Jupyter notebooks in Google Colab. They can be found in the directory `notebooks`:
