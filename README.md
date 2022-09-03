@@ -32,5 +32,5 @@ In the files `baseline.py` and `hmm`, the Unigram and Hidden Markov Models are t
 ## Evaluation
 + for accuracy values, execute `python evaluation/accuracy.py`
 + for confusion matrices, execute `python evaluation/confusion_matrix.py`
-
-
++ for performance on out-of-vocabulary words, execute `python evaluation/oov.py"
++ for performance on ambiguous words, execute `python evaluation/ambig.py"
